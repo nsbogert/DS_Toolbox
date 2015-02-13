@@ -1,4 +1,7 @@
 # DS_Toolbox
 Files for Data Scientist's Toolbox Class
 
-## JUST WRITING SOMETHING 
+## A List of The Kinds of Guitars I have
+* Accoustic
+* Electric
+* Classical
